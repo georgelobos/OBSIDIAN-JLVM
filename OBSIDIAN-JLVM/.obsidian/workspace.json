@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "ed7228a40cdea66b",
+    "type": "split",
+    "children": [
+      {
+        "id": "798a523cd6bbed94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc61915ed14ef711",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d18ad48389e2648",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ddea9453f10599a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6b45ad749910ba0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cc35c36b1962d293",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "163e4baddcd1879a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "de6727bc7086350b",
+            "type": "leaf",
+            "state": {
+              "type": "structured-tree-view",
+              "state": {},
+              "icon": "structured-activity-bar",
+              "title": "Structured Tree"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c97189fb067d436",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c44b097de9492f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aed431b9ab6d5db7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "jlvm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for jlvm"
+            }
+          },
+          {
+            "id": "1ef402cbb2c913f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "jlvm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from jlvm"
+            }
+          },
+          {
+            "id": "57932054b9e1591e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "623fb2ab492a2b99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "jlvm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of jlvm"
+            }
+          },
+          {
+            "id": "bfa7811dfd1ce10a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b43f531d1a21e4ad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "structured-tree:Open Structured Tree": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fc61915ed14ef711",
+  "lastOpenFiles": [
+    "JLVM.CORREOS.hotmail.md",
+    "JLVM.CORREOS.yahoo.md",
+    "JLVM.CORREOS.md",
+    "JLVM.CORREOS.tuta.md",
+    "JLVM.CORREOS.gmail.md",
+    "JLVM.CORREOS.outlook.md",
+    "JLVM.CUENTAS INTERNET.md",
+    "JLVM.md",
+    "SAN CASIMIRO.md",
+    "CASA-MARACAY.md",
+    "TASAJERA.md",
+    "MARCOS.md",
+    "DONAISA.md",
+    "VICA.md",
+    "QUÍMICA.md",
+    "CASA-CARACAS.md",
+    "TELEFONÍA.md",
+    "SCMC.md",
+    "LYNDA.md",
+    "PERSONAL..md",
+    "PERSONAL.md",
+    "root.SCMC.md",
+    "CUADERNOS.PERSONAL.md",
+    "root..md",
+    "root.PERSONAL.md",
+    "NOTAS.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
